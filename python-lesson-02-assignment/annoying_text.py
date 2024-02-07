@@ -12,3 +12,4 @@ annoying_text = 10*shouting_text
 print(f"My annoying text is {annoying_text}\n")
 
 print(f"It has {len(annoying_text)} characters.")
+
