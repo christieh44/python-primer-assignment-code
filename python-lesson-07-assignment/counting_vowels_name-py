@@ -1,0 +1,15 @@
+#Use defined function on my name
+
+import counting_vowels_function
+
+print("\nThis is a program to count the number of vowels in my name \n")
+
+full_name = "Christie Ho"
+
+counting_vowels_function.vowel_counting(full_name)
+
+
+print(f"My name is {full_name}")
+
+print("\nThere are", counting_vowels_function.vowel_counting(full_name), "vowels in my name")
+
